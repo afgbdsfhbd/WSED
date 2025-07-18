@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+article{
+
+position: relative;
+
+
+}
+
+
+article:hover{
+
+    background-color: rgba(85, 61, 10, 0.808);
+}
+
+article{
+    transition:.9s;
+    
+
+}
+
+h4{
+text-align: center;
+font-size: x-large;
+
+}
+
+
+
+h5{
+text-align: center;
+font-size: x-large;
+font-family: 'Courier New';
+
+}
+
+
+h6{
+text-align: center;
+
+font-size: x-large;
+
+    
+}
+h7{
+text-align: center;
+font-size: xx-large;
+font-family: 'Franklin Gothic Medium';
+}
+footer{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+body {
+    background-image: url("https://i.pinimg.com/736x/77/97/f8/7797f850516ea7a68bc0c9ed71230af5.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  main{
+
+text-align: center;
+
+  }
+
+  header{
+
+    text-align: center;
+  }
+
+  body{
+
+    font-family: Courier New;
+  }
+
+  .fade-in {
+    opacity: 0;
+    transform: translateY(100px);
+    animation: fadeIn 2s ease-out forwards;
+  }
+  
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .img-zoom {
+    transition: transform 0.5s ease;
+  }
+  
+  .img-zoom:hover {
+    transform: scale(1.1);
+    
+  }
+  
+  body{
+    text-align: center;
+  }
