@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background-color: #ADD8E6;
+
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center  ;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+article{
+
+position: relative;
+
+
+}
+
+
+article:hover{
+
+    background-color: red;
+}
+
+article{
+    transition:.9s;
+    
+
+}
+
+footer{
+
+font: 25px;
+
+}
+ 

@@ -1,0 +1,40 @@
+.nn{
+
+ background-color: blue;
+padding: 10px;display: flex;
+justify-content: space-around;
+align-items: center;
+
+  }
+
+
+  nav{
+display: flex;
+justify-content: space-around;
+width: 1000px;
+
+
+  }
+
+  nav a{
+
+ color: beige;
+ text-decoration: none;
+ font-weight: 800;
+ font-size: 30px;
+
+  }
+
+  .header img{
+width: 100px;
+height: 100px;
+border-radius: 50px;
+
+  }
+
+  body{
+background-image: url( https://i.playground.ru/e/BkZLmcsRMrhQpXZqUyPyeA.jpeg);
+
+
+
+  }
